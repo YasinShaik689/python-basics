@@ -1,0 +1,5 @@
+print("name:Shaik Yasin")
+print("roll number:26VV5A1277")
+print("email Id:shaikyasin@gmail.com")
+print("jntu gurajada vizianagaram")
+print("residence:vizianagaram")

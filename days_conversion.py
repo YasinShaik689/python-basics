@@ -1,0 +1,6 @@
+print("conversion of days into years, months and days")
+print("--------")
+days = int(input("enter the number of days: "))
+print("number of years:", days // 365)
+print("number of months:", days // 30)
+print("number of weeks:", days // 7)

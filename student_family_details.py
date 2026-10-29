@@ -1,0 +1,11 @@
+print("name:shaiK yasin")
+print("roll number:26VV5A1277")
+print("email Id:shaikyasin@gmail.com")
+print("jntu gurajada vizianagaram")
+print("residence:nuzvid")
+print("father name:shaik saleem")
+print("father occupation:machanic")
+print("mother name:shaik turabi")
+print("mother occupation:house wife")
+print("brother name:shaik mosin")
+
